@@ -16,7 +16,7 @@
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/",
-    "description": "An application that allows you to view different news articles and save your favorites.",
+    "description": "An application that allows you to keep track of your budget online or offline.",
     "background_color": "#01579b",
     "theme_color": "#ffffff",
     "theme-color": "#ffffff"
